@@ -1,2 +1,3 @@
-# llama2-colab
- Implementation of Llama2 model running inference on Colab notebook
+# Llama2 Colab
+ Implementation of Llama2 model running chat inference and fine-tuning on Google Colab notebook using one GPU only.
+ 
