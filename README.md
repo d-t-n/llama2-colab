@@ -12,5 +12,5 @@
  ## Data and Model
  ### The model that you want to train from the Hugging Face hub
 model_name = "meta-llama/Llama-2-7b-chat-hf"
- #### The instruction dataset to use
+ ### The instruction dataset to use
 dataset_name = "mlabonne/guanaco-llama2-1k"
